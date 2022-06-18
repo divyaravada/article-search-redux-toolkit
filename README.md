@@ -1,6 +1,6 @@
 **#Link**
 
- Project link https://divyaravada.github.io/Article-Search-React-Redux-ToolKit/
+ Project link https://divyaravada.github.io/article-search-redux-toolkit/
 
 
 # Getting Started with Create React App
